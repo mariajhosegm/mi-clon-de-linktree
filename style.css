@@ -62,6 +62,10 @@ body .grid-item{
     white-space: normal;
 }
 
+.grid-item:hover{
+    color: #3598db;
+    background-color: #000;
+}
 
 /* MOVILES */
 @media screen and (max-width:525px) {
